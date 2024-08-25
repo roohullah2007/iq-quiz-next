@@ -1,0 +1,32 @@
+<svg width="464" height="352" viewBox="0 0 464 352" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="85" y="46" width="32" height="40" fill="black" stroke="black"/>
+<rect x="117" y="86" width="32" height="40" stroke="black"/>
+<rect x="121.477" y="90.2402" width="24" height="32" stroke="black"/>
+<rect x="53" y="46" width="32" height="40" stroke="black"/>
+<rect x="57.4766" y="50.2402" width="24" height="32" stroke="black"/>
+<rect x="117" y="46" width="32" height="40" stroke="black"/>
+<rect x="121.477" y="50.2402" width="24" height="32" stroke="black"/>
+<rect x="85" y="86" width="32" height="40" stroke="black"/>
+<rect x="88.7344" y="90.2402" width="24" height="32" stroke="black"/>
+<rect x="321" y="46" width="32" height="40" fill="black" stroke="black"/>
+<rect x="321" y="86" width="32" height="40" stroke="black"/>
+<rect x="325.477" y="90.2402" width="24" height="32" stroke="black"/>
+<rect x="289" y="46" width="32" height="40" stroke="black"/>
+<rect x="293.477" y="50.2402" width="24" height="32" stroke="black"/>
+<rect x="353" y="46" width="32" height="40" stroke="black"/>
+<rect x="357.477" y="50.2402" width="24" height="32" stroke="black"/>
+<rect x="289" y="86" width="32" height="40" stroke="black"/>
+<rect x="292.734" y="90.2402" width="24" height="32" stroke="black"/>
+<rect x="85" y="226" width="32" height="40" fill="black" stroke="black"/>
+<rect x="117" y="266" width="32" height="40" stroke="black"/>
+<rect x="121.477" y="270.24" width="24" height="32" stroke="black"/>
+<rect x="53" y="266" width="32" height="40" stroke="black"/>
+<rect x="57.4766" y="270.24" width="24" height="32" stroke="black"/>
+<rect x="117" y="226" width="32" height="40" stroke="black"/>
+<rect x="121.477" y="230.24" width="24" height="32" stroke="black"/>
+<rect x="85" y="266" width="32" height="40" stroke="black"/>
+<rect x="88.7344" y="270.24" width="24" height="32" stroke="black"/>
+<path d="M441.15 218.016H293.121V329.453H441.15V218.016Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M437.638 221.325H296.391V326.112H437.638V221.325ZM441.029 218V329.438H293V218H441.029Z" fill="#0070F3"/>
+<path d="M357.954 285.857C357.988 274.129 360.97 270.494 366.476 266.96C370.81 264.195 374.104 261.497 374.104 257.272C374.104 253.047 370.843 250.416 366.755 250.416C362.667 250.416 358.959 253.326 358.848 258.131H342.898C343.111 243.593 353.855 237.127 366.889 237.127C381.174 237.127 391.539 243.905 391.539 256.47C391.539 264.742 387.138 269.758 380.482 273.66C375.244 276.771 372.719 279.714 372.719 285.835V287.25H357.954V285.835V285.857ZM356.603 300.974C356.536 296.058 360.623 292.078 365.616 292.078C370.608 292.078 374.562 296.058 374.629 300.974C374.562 305.958 370.363 309.971 365.616 309.971C360.623 309.971 356.536 305.958 356.603 300.974Z" fill="#0070F3"/>
+</svg>

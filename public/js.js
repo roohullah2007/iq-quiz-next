@@ -1,0 +1,1 @@
+import img from '../app/assets/question1.png'
